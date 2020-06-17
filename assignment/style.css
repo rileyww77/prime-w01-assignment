@@ -21,7 +21,7 @@ footer, p{
 }
 /* Put a border around your image */
 .picture{
-  border:15px solid black;
+  border:50px solid black;
 }
 /* Change the font-family of your list */
 h2{
